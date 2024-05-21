@@ -2,6 +2,11 @@ Demo:
 
 https://github.com/phuongtlee/Lab3_Spa/assets/97996632/db8ab3ed-c00b-4af1-b9b0-7b929cb130ef
 
+update tính năng search:
+
+https://github.com/phuongtlee/Lab3_Spa/assets/97996632/91e3bd24-48a3-4d98-b611-66583de64af3
+
+
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
