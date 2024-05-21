@@ -1,3 +1,9 @@
+Demo: 
+
+https://github.com/phuongtlee/Lab3_Spa/assets/97996632/db8ab3ed-c00b-4af1-b9b0-7b929cb130ef
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
